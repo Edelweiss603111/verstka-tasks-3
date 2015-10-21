@@ -1,0 +1,15 @@
+body {
+    background: #FFE4C4;
+}
+tr:nth-child(2n+1) {
+   background-color: #7CFC00;
+}
+tr:nth-child(2n) {
+   background-color: #FFFF00;
+}
+th {
+   background-color: #008000;
+   
+}
+td:hover {background-color:#4B0082;}
+tr:hover {background-color:#800080;}
